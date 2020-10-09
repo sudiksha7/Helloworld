@@ -1,2 +1,2 @@
 # Helloworld
-A quiz making platform based on php and mysql
+A quiz making platform based on PHP and MySQL.
